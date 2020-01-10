@@ -6,7 +6,7 @@
 
 ## Description
 
-_This HTML webpage serves as a landing page for my programming portfolio. Bootstrap and custom CSS both style the webpage._
+_This project directory includes an HTML webpage that serves as a landing page for my programming portfolio, available at [GitHub pages](http://michelle-morin.github.io/michelle-portfolio). The webpage includes a photo of myself and an "About Me" section describing my background (education and work experience), hobbies, interests, and skills. The webpage also includes a project directory describing some of the projects I completed thus far at Epicodus. Bootstrap version 3.3.7 and a custom stylesheet both style the webpage. Background images applied to the jumbotron and well classes are photos I captured in Bryce Canyon National Park._
 
 ## Setup/Installation Requirements
 
