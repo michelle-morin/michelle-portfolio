@@ -5,8 +5,8 @@ body {
 img.img-thumbnail {
   max-width: 100%;
   height: auto;
-  border: 2px dotted rgb(230, 149, 84);
-  float: right;
+  border: 2px dotted #d17c52;
+  float: left;
   padding: 5px;
   margin-top: 10%;
   margin-bottom: 5%;
@@ -36,31 +36,36 @@ h2.header {
 }
 
 .panel {
-  border: 2px dotted rgb(230, 149, 84);
+  border: 2px dotted #d17c52;
 }
 
 .panel-heading {
-  background-color: rgb(230, 149, 84);
+  background-color: #d17c52;
 }
 
 .panel-title {
   font-size: 30px;
   color: rgb(0, 0, 0);
+  font-weight: bold;
 }
 
-.panel-body p {
-  color: rgb(116, 66, 9);
+.panel-body h4 {
+  color: #d17c52;
 }
 
 .well {
-  background-image: url(canyon2.jpeg);
+  background-image: url(canyon2.png);
   background-repeat: no-repeat;
   background-size: cover;
   color: rgb(0, 0, 0);
+  border: 2px dotted #d17c52;
+  height: 750px;
+  overflow-y: scroll;
 }
 
 .well h2 {
   font-size: 30px;
+  font-weight: bold;
 }
 
 .well p {
@@ -69,6 +74,14 @@ h2.header {
 
 .well ol, .panel-body ul {
   font-family: Helvetica;
+}
+
+ol {
+  font-weight: bold;
+}
+
+.normal {
+  font-weight: normal;
 }
 
 ol li {
