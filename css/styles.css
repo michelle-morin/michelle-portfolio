@@ -7,7 +7,7 @@ img.img-thumbnail {
   height: auto;
   display: block;
   padding: 5px;
-  margin-top: 20%;
+  margin-top: 10%;
   margin-bottom: 5%;
 }
 
@@ -48,4 +48,12 @@ h2.header {
 
 .well ol, .panel-body ul {
   font-family: Helvetica;
+}
+
+ol li {
+  margin-top: 5px;
+}
+
+ul li {
+  margin-top: 0px;
 }
