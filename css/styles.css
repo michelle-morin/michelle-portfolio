@@ -5,23 +5,30 @@ body {
 img.img-thumbnail {
   max-width: 100%;
   height: auto;
-  display: block;
+  float: right;
   padding: 5px;
   margin-top: 10%;
   margin-bottom: 5%;
 }
 
 .jumbotron {
-  margin: 10px 0px;  
+  margin: 20px 0px;  
+  background-image: url(canyon.jpeg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .jumbotron h1 {
-  color: #5394B9;
+  color: rgb(0, 0, 0);
 }
 
 h2.header {
   font-size: 16px;
   font-family: Helvetica;
+  color:  rgb(0, 0, 0);
+  display: flex;
+  justify-content: flex-end;
 }
 
 .job {
@@ -35,6 +42,13 @@ h2.header {
 
 .panel-body p {
   color: #5394B9;
+}
+
+.well {
+  border: 2px dotted #5394B9;
+  background-image: url(zion.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .well h2 {
