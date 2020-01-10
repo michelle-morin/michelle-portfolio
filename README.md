@@ -1,6 +1,6 @@
 # _Portfolio_
 
-#### _Independent project for Epicodus_, 10 January 2020_
+#### _Independent project for Epicodus_, _10 January 2020_
 
 #### By _**Michelle Morin**_
 
