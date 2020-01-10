@@ -26,8 +26,7 @@ img.img-thumbnail {
 
 h2.header {
   font-size: 16px;
-  font-family: Helvetica;
-  color:  rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
   margin-left: 60%;
 }
 
@@ -59,8 +58,6 @@ h2.header {
   background-size: cover;
   color: rgb(0, 0, 0);
   border: 2px dotted #d17c52;
-  height: 750px;
-  overflow-y: scroll;
 }
 
 .well h2 {
@@ -72,9 +69,6 @@ h2.header {
   font-weight: bold;
 }
 
-.well ol, .panel-body ul {
-  font-family: Helvetica;
-}
 
 ol {
   font-weight: bold;
