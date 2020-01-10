@@ -1,0 +1,43 @@
+img.img-thumbnail {
+  max-width: auto;
+  max-height: auto;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 50px;
+  padding: 5px;
+}
+
+.jumbotron {
+  margin: 10px 0px;  
+}
+
+.jumbotron h1 {
+  color: #5394B9;
+}
+
+h2.header {
+  font-size: 16px;
+}
+
+.job {
+  font-style: italic;
+}
+
+.panel-title {
+  color: #5394B9;
+  font-size: 30px;
+}
+
+.panel-body p {
+  color: #5394B9;
+}
+
+.well h2 {
+  color: #5394B9;
+  font-size: 30px;
+}
+
+.well p {
+  color: #5394B9;
+}
