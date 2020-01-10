@@ -5,7 +5,7 @@ body {
 img.img-thumbnail {
   max-width: 100%;
   height: auto;
-  border: 2px dotted rgb(116, 66, 9);
+  border: 2px dotted rgb(230, 149, 84);
   float: right;
   padding: 5px;
   margin-top: 10%;
@@ -36,12 +36,16 @@ h2.header {
 }
 
 .panel {
-  border: 2px dotted rgb(116, 66, 9);
+  border: 2px dotted rgb(230, 149, 84);
+}
+
+.panel-heading {
+  background-color: rgb(230, 149, 84);
 }
 
 .panel-title {
-  color: rgb(116, 66, 9);
   font-size: 30px;
+  color: rgb(0, 0, 0);
 }
 
 .panel-body p {
