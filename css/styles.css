@@ -21,6 +21,7 @@ img.img-thumbnail {
 
 h2.header {
   font-size: 16px;
+  font-family: Helvetica;
 }
 
 .job {
@@ -43,4 +44,8 @@ h2.header {
 
 .well p {
   color: #5394B9;
+}
+
+.well ol, .panel-body ul {
+  font-family: Helvetica;
 }
