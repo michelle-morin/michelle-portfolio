@@ -18,6 +18,7 @@ img.img-thumbnail {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  border: 1px solid black;
 }
 
 .jumbotron h1 {
@@ -42,34 +43,23 @@ h2.header {
   background-color: #d17c52;
 }
 
-.panel-title {
+.panel-title, h2.panel-title {
   font-size: 30px;
   color: rgb(0, 0, 0);
   font-weight: bold;
 }
 
 .panel-body h4 {
-  color: #d17c52;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
 }
 
-.well {
+#canyon {
   background-image: url(transparent-canyon.png);
   background-repeat: no-repeat;
   background-size: cover;
   color: rgb(0, 0, 0);
-  border: 2px dotted #d17c52;
 }
-
-.well h2 {
-  font-size: 30px;
-  font-weight: bold;
-}
-
-.well h4 {
-  font-weight: bold;
-  color: #d17c52;
-}
-
 
 ol {
   font-weight: bold;
@@ -90,4 +80,9 @@ ul li {
 a, a:hover {
   color: rgb(0, 0, 0);
   font-weight: bold;
+}
+
+em {
+  text-decoration: underline;
+  text-decoration-color: #d17c52;
 }
