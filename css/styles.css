@@ -5,7 +5,7 @@ body {
 img.img-thumbnail {
   max-width: 100%;
   height: auto;
-  border: 2px dotted #d17c52;
+  border: 1px solid #000000;
   float: left;
   padding: 5px;
   margin-top: 10%;
@@ -18,7 +18,7 @@ img.img-thumbnail {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  border: 1px solid black;
+  border: 1px solid #d17c52;
 }
 
 .jumbotron h1 {
@@ -36,7 +36,7 @@ h2.header {
 }
 
 .panel {
-  border: 2px dotted #d17c52;
+  border: 1px solid #d17c52;
 }
 
 .panel-heading {
